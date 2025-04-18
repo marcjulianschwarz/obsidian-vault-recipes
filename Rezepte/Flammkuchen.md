@@ -20,7 +20,7 @@ Für einen Flammkuchen:
 
 - 230 g Mehl 
 - 30 g Olivenöl
-- 120 g Wasse
+- 120 g Wasser
 - ¼ Teelöffel Salz 
 
 
