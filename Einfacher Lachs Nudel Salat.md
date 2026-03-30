@@ -1,3 +1,7 @@
+---
+recipe-type: Salat
+---
+
 # Lachs Nudel Salat
 
 ## Zutaten

@@ -1,2 +1,0 @@
-
-# Würstchen mit Kartoffelsalat

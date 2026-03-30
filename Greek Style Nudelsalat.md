@@ -1,4 +1,10 @@
+---
+recipe-type: Salat
+---
+
 # Greek Style Nudelsalat
+
+## Zutaten
 
 - Nudeln 
 - Rote Zwiebel
@@ -6,6 +12,7 @@
 - Salatgurke
 - Paprika
 - 200g Feta
-- Salz, Pfeffer
+- Salz
+- Pfeffer
 - Oregano
 - 1EL Olivenöl

@@ -8,7 +8,7 @@ recipe-ingredients:
   - Zimt
   - Vanille Paste
   - Vanille
-recipe-type: Süß
+recipe-type: Nachspeise
 ---
 # Dinkel-Hafer-Pfannkuchen
 

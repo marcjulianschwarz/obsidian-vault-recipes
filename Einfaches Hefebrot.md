@@ -1,6 +1,7 @@
 ---
 servings: 4
 recipe-difficulty: 1
+recipe-type: Brot
 ---
 
 # Brot
