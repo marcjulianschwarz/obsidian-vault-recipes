@@ -1,17 +1,13 @@
 ---
 recipe-type: Getränk
 recipe-difficulty: 1
-recipe-ingredients:
-  - Prosecco
-  - Mineralwasser
-  - Aperol
-  - Orange
-  - Eiswürfel
 ---
 
 # Aperol Sprizz
 
-Pro Person:
+## Zutaten
+
+### Mit Alkohol
 
 - 100 ml Prosecco
 - 100 ml Mineralwasser (spritzig)
@@ -19,9 +15,7 @@ Pro Person:
 - 1-2 Scheiben Orange
 - Eiswürfel nach Belieben
 
-Die Orangenscheiben und den Aperol in ein Weinglas geben und mit einem Löffel andrücken, danach mit Prosecco, Mineralwasser und Eiswürfel auffüllen un mit einem Löffel umrühren.
-
-## Sanbitter Orange (alkoholfrei)
+### Sanbitter Orange (alkoholfrei)
 
 - 1 kleine Flasche Sanbitter
 - 75 ml Mineralwasser (spritzig)
@@ -29,5 +23,20 @@ Die Orangenscheiben und den Aperol in ein Weinglas geben und mit einem Löffel a
 - 1 Scheibe Orange
 - Eiswürfel
 
-Glas zu einem Drittel Eiswürfeln füllen. Sanbitter, Mineralwasse: und Orangensaft ins Glas geben.
-Alles gut umrühren. Mit einer Scheibe Orange garnieren.
+## Zubereitung
+
+### Mit Alkohol
+
+- Die Orangenscheiben und den Aperol in ein Weinglas geben und mit einem Löffel andrücken
+- Mit Prosecco, Mineralwasser und Eiswürfel auffüllen un mit einem Löffel umrühren.
+
+### Alkoholfrei
+
+- Glas zu einem Drittel Eiswürfeln füllen. 
+- Sanbitter, Mineralwasse: und Orangensaft ins Glas geben.
+- Alles gut umrühren. 
+- Mit einer Scheibe Orange garnieren.
+
+## Notizen
+
+Die Mengen sind pro Person

@@ -23,9 +23,9 @@ recipe-type: Süß
 
 ## Zubereitung
 
-Apfel klein raspeln oder in kleine Stücke schneiden.
-Zutaten zu einem zähflüssigen Teig umrühren.
-Pfanne erhitzen mit ein bisschen Öl.
-Kleine Pfannkuchen in Pfanne backen.
+- Apfel klein raspeln oder in kleine Stücke schneiden.
+- Zutaten zu einem zähflüssigen Teig umrühren.
+- Pfanne erhitzen mit ein bisschen Öl.
+- Kleine Pfannkuchen in Pfanne backen.
 
 → Mit Marmelade oder Obst genießen 
