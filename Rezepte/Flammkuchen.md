@@ -1,30 +1,20 @@
 ---
 recipe-type: Hauptspeise
 recipe-difficulty: 2
-recipe-ingredients:
-  - Mehl
-  - Olivenöl
-  - Wasser
-  - Salz
-  - Zwiebel
-  - Creme fraiche
-  - Sahne
-  - Pfeffer
-  - Muskat
-  - Schinkenwürfel
+servings: 1
 ---
-
 # Flammkuchen
 
-Für einen Flammkuchen:
+## Zutaten
+
+### Teig
 
 - 230 g Mehl 
 - 30 g Olivenöl
 - 120 g Wasser
 - ¼ Teelöffel Salz 
 
-
-## Belag 
+### Belag 
 - 200 g Zwiebeln
 - 200 g Creme fraiche
 - 30 g Sahne 

@@ -1,34 +1,20 @@
 ---
 recipe-type: Hauptspeise
 recipe-difficulty: 1
-recipe-ingredients:
-  - Hackfleisch
-  - Zwiebel
-  - Mehl
-  - Ei
-  - Butter
-  - Wasser
-  - Tomatenmark
-  - Senf
-  - Sahne
-  - Paprikapulver
-  - Pfeffer
-  - Salz
-  - Chilli
+source: https://www.youtube.com/watch?v=kFJiBqm9aqA&feature=youtu.be
 ---
-
 # Frikadellen mit schneller Pfannensoße
-https://www.youtube.com/watch?v=kFJiBqm9aqA&feature=youtu.be
 
+## Zutaten
+### Frikadellen
 
-Frikadellen
 - Hackfleisch
 - Zwiebeln (1-2 Zwiebeln pro 500g)
 - Mehl oder Semmelbrösel oder Hartweizengries
 - 1 Ei
 
-Soße
-- Zwiebeln in Bratenfett und Butter
+### Soße
+- Zwiebeln
 - Wasser
 - 0,5 EL Tomatenmark
 - 1 EL Senf
@@ -38,10 +24,13 @@ Soße
 - Salz
 - Chilli
 
+## Zubereitung
+- Frikadellen scharf anbraten
+- In köchelnder Soße fertig garen lassen (circa 10-15min).
 
-Frikadellen zuerst scharf anbraten, dann in köchelnder Soße fertig garen lassen (circa 10-15min).
+## Notizen
 
-Dazu (Auswahl):
+Dazu:
 - Nudeln
 - Kartoffelstampf
 - Salat

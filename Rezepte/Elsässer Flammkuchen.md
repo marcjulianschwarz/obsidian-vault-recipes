@@ -1,22 +1,11 @@
 ---
 recipe-type: Hauptspeise
 recipe-difficulty: 2
-recipe-ingredients:
-  - Mehl
-  - Wasser
-  - Salz
-  - Olivenöl
-  - Creme fraiche
-  - Speck
-  - Zwiebel
-  - Pfeffer
+servings: 4
 ---
-
 # Elsässer Flammkuchen
 
-Siehe auch [[Flammkuchen]].
-
-Für 4 kleine Flammkuchen:
+## Zutaten
 
 - 300g Mehl
 - 150ml Wasser
@@ -25,8 +14,10 @@ Für 4 kleine Flammkuchen:
 - Creme Fraiche
 - Speck
 - Zwiebeln
-- Salz und Pfeffer
+- Salz
+- Pfeffer
 
+## Zubereitung
 
 - Mehl, Wasser, Salz und Olivenöl zu Teig kneten
 - Teig ruhen lassen
@@ -36,3 +27,6 @@ Für 4 kleine Flammkuchen:
 - Belegen
 - Rein in Ofen auf höchster Temperatur
 
+## Notizen
+
+Siehe auch [[Flammkuchen]].
