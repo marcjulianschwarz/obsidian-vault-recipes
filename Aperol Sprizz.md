@@ -1,6 +1,8 @@
 ---
 recipe-type: Getränk
 recipe-difficulty: 1
+cook_time: "10"
+featured: true
 ---
 
 # Aperol Sprizz
